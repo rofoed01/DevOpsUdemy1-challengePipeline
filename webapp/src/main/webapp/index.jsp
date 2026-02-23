@@ -31,7 +31,10 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you, and happy Learning! </h1>
+   <h1> Thank you, and happy learning! </h1>
    <h2> Please come again! </h2>
+
+   <h3> The flow state will never let you down. </h3>
+   <h3> *INSERT IDEA* is an illusion. </h3>
   
 </form>
